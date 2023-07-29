@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # Vidio API Python
-# Created by:  @thefirefox12537
+# Created by:  @halakkita
 
 import argparse
 import requests
